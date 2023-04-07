@@ -1,4 +1,4 @@
-let title = "Codecamp14";
+/*let title = "Codecamp14";
 const months = ['Jan', 'Feb', 'Mar', 'Apr', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
 function random() {
@@ -6,3 +6,10 @@ function random() {
 }
 //ทำหารระบุ Export ให้ผู้ใช้
 export{title, months, random};
+*/
+export const title = "Codecamp14";
+const months = ['Jan', 'Feb', 'Mar', 'Apr', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+export function random() {
+   return Math.random() *100;
+}
