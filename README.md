@@ -1,4 +1,4 @@
- ## initial
+ ## initialz
 ```
 $npm init -y
 Wrote to /Volumes/Server/codecamp14/JavaScript/JS-MODULE/package.json:
