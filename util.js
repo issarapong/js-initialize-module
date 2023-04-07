@@ -13,3 +13,7 @@ const months = ['Jan', 'Feb', 'Mar', 'Apr', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 export function random() {
    return Math.random() *100;
 }
+
+const Pi= 3.14;
+
+export default Pi;
